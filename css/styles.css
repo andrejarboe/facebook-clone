@@ -123,3 +123,7 @@ header {
     right: -10px;
     font-weight: 700;
 }
+.header__account{
+    display: flex;
+}
+.headr
